@@ -1,2 +1,2 @@
 # paintings
-a website for artworks
+a website for my artworks
